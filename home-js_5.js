@@ -7,7 +7,7 @@ const chile = 'Чили';
 const india = 'Индия';
 const jamaica = 'Ямайка';
 let dc;
-dc = destinationCountry.toLoverCase();
+dc = destinationCountry.toLoWerCase();
 // if(destinationCountry.toLoverCase() === china.toLoverCase()){
 //     possibleCountry = china;
 //     price = 100;
@@ -16,4 +16,4 @@ dc = destinationCountry.toLoverCase();
 //     price = 170;
 // }
 console.log(dc)
-console.log(price)
+// console.log(price)
