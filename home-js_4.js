@@ -6,7 +6,7 @@ let balance;
 if(quantity === null){
     console.log('Отменено пользователем');
 } else {
-    totalPrice = quantity * 3000; 
+    totalPrice = quantity * pricePerDroid;
 if(totalPrice > credits){
 console.log('Недостаточно средств на счету')
 } else {

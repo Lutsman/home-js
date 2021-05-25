@@ -8,7 +8,7 @@ const india = 'Индия';
 const jamaica = 'Ямайка';
 let dc;
 dc = destinationCountry.toLoWerCase();
-// if(destinationCountry.toLoverCase() === china.toLoverCase()){
+// if(destinationCountry.toLoWerCase() === china.toLoverCase()){
 //     possibleCountry = china;
 //     price = 100;
 // } else if(destinationCountry.toLoverCase() === australia.toLoverCase()){
