@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ff9a138-e58b-4479-8c81-30363918bae1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/home-js_10l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-js_11l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-js_12l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-js_7l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-js_9l.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-js_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/home-js_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home-js_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/home-js_5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -14,6 +18,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,17 +57,40 @@
       <updated>1621619695486</updated>
       <workItem from="1621619697223" duration="1043000" />
       <workItem from="1621620986041" duration="270000" />
-      <workItem from="1621622412900" duration="1973000" />
+      <workItem from="1621622412900" duration="3429000" />
+      <workItem from="1622475696622" duration="6167000" />
+      <workItem from="1622527331557" duration="1068000" />
+      <workItem from="1622612779453" duration="9650000" />
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1621966006801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621966006801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1621966006020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1621966006020" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1621620747934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1621620747934" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621966011475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1621966011475" />
   </component>
 </project>
