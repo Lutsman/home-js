@@ -18,3 +18,5 @@ function readNumber(){
     }
 }
 readNumber();
+//
+// потом решить методом do while
