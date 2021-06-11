@@ -19,7 +19,22 @@
 //     return (longestWord);
 // };
 
-//не сильно нравится , но придумалсам
+ const findLongestWord = function(string) {
+  const words = string.split(' ');
+   let longestWord = words[0];
+
+    for(let word of words){
+        if( word.length > longestWord.length){
+            longestWord = word;
+        }
+
+    }return (longestWord);
+};
+
+
+//как Репета
+
+
 
 /*
  * Вызовы функции для проверки работоспособности твоей реализации.
